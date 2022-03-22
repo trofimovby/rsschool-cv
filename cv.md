@@ -17,7 +17,7 @@ I am a full-time student at BSUIR and already have skills in web development,
 since 2020 I began to delve into the study of HTML, CSS, JavaScript (vanila).
 I am also actively studying and practicing the topic of blockchain, cryptocurrencies and web 3.0.
 I want to continue improving my skills and am open to new knowledge and technologies.
-I am responsible and purposeful, many of my friends are amazed at my productivity.
+I am responsible and purposeful, many of my friends are amazed at my productivity!
 
 ### Code example::
 ```
